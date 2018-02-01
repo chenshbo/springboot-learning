@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="1-springboot-restful" />
+        <module name="2-springboot-properties" />
+        <module name="3-springboot-redis" />
+        <module name="4-springboot-disconf" />
+        <module name="5-springboot-swagger" />
+        <module name="springboot-properties" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="1-springboot-restful" target="1.8" />
+      <module name="2-springboot-properties" target="1.8" />
+      <module name="3-springboot-redis" target="1.8" />
+      <module name="4-springboot-disconf" target="1.8" />
+      <module name="5-springboot-swagger" target="1.8" />
+      <module name="redis" target="1.8" />
+      <module name="springboot-learning" target="1.5" />
+      <module name="springboot-properties" target="1.8" />
+      <module name="springboot-restful" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

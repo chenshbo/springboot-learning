@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-springboot-restful/1-springboot-restful.iml" filepath="$PROJECT_DIR$/1-springboot-restful/1-springboot-restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-springboot-properties/2-springboot-properties.iml" filepath="$PROJECT_DIR$/2-springboot-properties/2-springboot-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-springboot-redis/3-springboot-redis.iml" filepath="$PROJECT_DIR$/3-springboot-redis/3-springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-springboot-disconf/4-springboot-disconf.iml" filepath="$PROJECT_DIR$/4-springboot-disconf/4-springboot-disconf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-springboot-swagger/5-springboot-swagger.iml" filepath="$PROJECT_DIR$/5-springboot-swagger/5-springboot-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-learning.iml" filepath="$PROJECT_DIR$/springboot-learning.iml" />
+    </modules>
+  </component>
+</project>
