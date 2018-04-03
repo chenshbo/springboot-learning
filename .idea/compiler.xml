@@ -11,6 +11,7 @@
         <module name="3-springboot-redis" />
         <module name="4-springboot-disconf" />
         <module name="5-springboot-swagger" />
+        <module name="6-springboot-scheduled" />
         <module name="springboot-properties" />
       </profile>
     </annotationProcessing>
@@ -20,6 +21,7 @@
       <module name="3-springboot-redis" target="1.8" />
       <module name="4-springboot-disconf" target="1.8" />
       <module name="5-springboot-swagger" target="1.8" />
+      <module name="6-springboot-scheduled" target="1.8" />
       <module name="redis" target="1.8" />
       <module name="springboot-learning" target="1.5" />
       <module name="springboot-properties" target="1.8" />

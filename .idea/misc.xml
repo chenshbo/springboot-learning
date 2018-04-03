@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/3-springboot-redis/pom.xml" />
         <option value="$PROJECT_DIR$/4-springboot-disconf/pom.xml" />
         <option value="$PROJECT_DIR$/5-springboot-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/6-springboot-scheduled/pom.xml" />
       </list>
     </option>
   </component>

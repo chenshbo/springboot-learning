@@ -26,6 +26,9 @@
 
 		<!-- springboot集成swaggerAPI -->
 		<module>5-springboot-swagger</module>
+
+		<!-- 6-springboot scheduled -->
+		<module>6-springboot-scheduled</module>
 	</modules>
 
 </project>
